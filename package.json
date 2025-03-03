@@ -13,6 +13,8 @@
     "cypress": "^14.0.3"
   },
   "devDependencies": {
+    "@percy/cli": "^1.30.7",
+    "@percy/cypress": "^3.1.4",
     "cypress-iframe": "^1.0.1",
     "cypress-real-events": "^1.14.0"
   }
