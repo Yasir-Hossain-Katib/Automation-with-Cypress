@@ -83,6 +83,13 @@ The automation suite covers the following sections of the InNeed Cloud website:
    ```sh
    git clone https://github.com/your-username/inneed-cloud-automation.git
    cd inneed-cloud-automation
-
- **Install dependencies:**
+   ```
+ 
+2. **Install dependencies:**
+   ```
    npm install
+   ```
+3. **Run Tests**
+  ```
+  npx cypress open
+  ```
