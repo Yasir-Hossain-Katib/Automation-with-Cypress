@@ -1,26 +1,24 @@
-## InNeed Cloud Web Automation with Cypress
+# InNeed Cloud Web Automation with Cypress
 
-# Project Overview
+## Project Overview
 
 This project is designed to automate the testing of the InNeed Cloud website. It ensures that all major sections, functionalities, and redirections work as expected. The automation covers UI elements, navigation, form validations, and external links.
 
-##Tech Stack
+## Tech Stack
 
-Test Automation Framework: Cypress / Selenium (Specify whichever you used)
+Test Automation Framework: Cypress 
 
-Programming Language: JavaScript / Python / Java
+Programming Language: JavaScript 
 
-Assertion Library: Chai (if using Cypress)
+Assertion Library: Chai 
 
-Reporting Tool: Mochawesome / Allure (If applicable)
+CI/CD Integration:  Jenkins 
 
-CI/CD Integration: GitHub Actions / Jenkins (If applicable)
-
-🔍 Test Coverage
+## Test Coverage
 
 The automation suite covers the following sections of the InNeed Cloud website:
 
-🔹 Homepage
+## Homepage
 
 Navbar functionality
 
@@ -34,43 +32,37 @@ Projects section verification
 
 Social media links validation
 
-🔹 Services Section
+## Services Section
 
 Ensuring all services are displayed correctly
 
 Verifying redirections from services to the correct pages
 
-🔹 Case Studies Section
+## Case Studies Section
 
 Ensuring all case studies are displayed properly
 
 Checking links for redirections to the correct study pages
 
-🔹 Redirections
+## Redirections
 
 Validating all internal and external links
 
 Ensuring AWS-related redirections go to the correct websites
 
-🔹 Blog Page
+## Blog Page
 
 Verifying all blog posts load correctly
 
 Ensuring blog post links navigate to the right content
 
-🔹 About Us Page
+## About Us Page
 
 Checking for the presence of team members or company details
 
 Verifying all links and contact details
 
-🔹 Career Page
-
-Ensuring job listings are visible
-
-Validating job application submission functionality
-
-🔹 Contact Us Page
+## Contact Us Page
 
 Contact form validation (Name, Email, Message submission, etc.)
 
@@ -78,7 +70,7 @@ Ensuring buttons function correctly
 
 Office locations display validation
 
-🔹 Footer Options
+## Footer Options
 
 Checking all footer links for proper redirections
 
