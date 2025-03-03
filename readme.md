@@ -22,56 +22,64 @@ The automation suite covers the following sections of the InNeed Cloud website:
 
 - Navbar functionality
 
-Navbar dropdown menus
+- Navbar dropdown menus
 
-Buttons functionality
+- Buttons functionality
 
-AWS credentials validation
+- AWS credentials validation
 
-Projects section verification
+- Projects section verification
 
-Social media links validation
+- Social media links validation
 
 ## Services Section
 
-Ensuring all services are displayed correctly
+- Ensuring all services are displayed correctly
 
-Verifying redirections from services to the correct pages
+- Verifying redirections from services to the correct pages
 
 ## Case Studies Section
 
-Ensuring all case studies are displayed properly
+- Ensuring all case studies are displayed properly
 
-Checking links for redirections to the correct study pages
+- Checking links for redirections to the correct study pages
 
 ## Redirections
 
-Validating all internal and external links
+- Validating all internal and external links
 
-Ensuring AWS-related redirections go to the correct websites
+- Ensuring AWS-related redirections go to the correct websites
 
 ## Blog Page
 
-Verifying all blog posts load correctly
+- Verifying all blog posts load correctly
 
-Ensuring blog post links navigate to the right content
+- Ensuring blog post links navigate to the right content
 
 ## About Us Page
 
-Checking for the presence of team members or company details
+- Checking for the presence of team members or company details
 
-Verifying all links and contact details
+- Verifying all links and contact details
 
 ## Contact Us Page
 
-Contact form validation (Name, Email, Message submission, etc.)
+- Contact form validation (Name, Email, Message submission, etc.)
 
-Ensuring buttons function correctly
+- Ensuring buttons function correctly
 
-Office locations display validation
+- Office locations display validation
 
 ## Footer Options
 
-Checking all footer links for proper redirections
+- Checking all footer links for proper redirections
 
-Validating social media icons
+- Validating social media icons
+
+
+## 🚀 How to Run the Tests
+
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/your-username/inneed-cloud-automation.git
+   cd inneed-cloud-automation
