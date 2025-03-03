@@ -20,7 +20,7 @@ The automation suite covers the following sections of the InNeed Cloud website:
 
 ## Homepage
 
-Navbar functionality
+- Navbar functionality
 
 Navbar dropdown menus
 
