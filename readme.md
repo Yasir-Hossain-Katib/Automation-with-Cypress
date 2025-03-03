@@ -77,9 +77,12 @@ The automation suite covers the following sections of the InNeed Cloud website:
 - Validating social media icons
 
 
-## 🚀 How to Run the Tests
+##  How to Run the Tests
 
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/your-username/inneed-cloud-automation.git
    cd inneed-cloud-automation
+
+ **Install dependencies:**
+   npm install
