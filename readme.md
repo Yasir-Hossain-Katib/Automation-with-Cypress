@@ -1,6 +1,6 @@
 ## InNeed Cloud Web Automation with Cypress
 
-##Project Overview
+# Project Overview
 
 This project is designed to automate the testing of the InNeed Cloud website. It ensures that all major sections, functionalities, and redirections work as expected. The automation covers UI elements, navigation, form validations, and external links.
 
