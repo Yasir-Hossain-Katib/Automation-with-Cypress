@@ -20,7 +20,7 @@ describe("Responsive Design Test",()=>{
         Responsive.iPhone12Pro();
     })
 
-    it("Test iPhone 14 Pro Max View",()=>{
+    it.only("Test iPhone 14 Pro Max View",()=>{
         
         Responsive.iPhone14ProMax();
     })
@@ -49,7 +49,7 @@ describe("Responsive Design Test",()=>{
         
         Responsive.iPadMini();
     })
-    
+
     it("Test iPad Air View",()=>{
         
         Responsive.iPadAir();
