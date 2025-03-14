@@ -81,7 +81,7 @@ The automation suite covers the following sections of the InNeed Cloud website:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://git.inneedcloud.com.bd/Demonster/Web_Automation_InNeed_Cloud.git
+   git clone https://github.com/Yasir-Hossain-Katib/Automation-with-Cypress.git
    cd inneed-cloud-automation
    ```
  
